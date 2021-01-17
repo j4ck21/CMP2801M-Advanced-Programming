@@ -1,0 +1,5 @@
+﻿  CMP2801M Advanced Programming.cpp
+C:\Users\jackd\source\repos\CMP2801M Advanced Programming\CMP2801M Advanced Programming\CMP2801M Advanced Programming.cpp(52,10): error C2039: 'add': is not a member of 'Order'
+C:\Users\jackd\source\repos\CMP2801M Advanced Programming\CMP2801M Advanced Programming\Order.h(5): message : see declaration of 'Order'
+  Menu.cpp
+  Generating Code...
