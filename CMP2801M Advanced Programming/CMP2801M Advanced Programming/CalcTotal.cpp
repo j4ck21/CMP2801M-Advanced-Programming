@@ -14,7 +14,7 @@ using namespace std;
 //*Set up a two for one offer
 int Calc(Item) {
 
-	double Total = Item::priceA + Item::priceM + Item::priceB;
+	double Total = &Item::priceA + &Item::priceM + &Item::priceB;
 	return Total;
 
 }
